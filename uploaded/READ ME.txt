@@ -1,0 +1,9 @@
+Please put wa-gw folder to C:\WA-GW
+then do this step :
+1. Install net framework 3.5, Run as Admin Register.cmd, install odbc MySQL
+   Please see PDF for basic instalation
+2. Run XAMPP, and make sure you can open LOCALHOST
+3. You can use login  : demo - demo , admin - admin
+   Or Register NEW USER
+4. Default for New User is TRIAL, use Admin to set as FULL Access (no limit)
+5. Please open Konfig.PHP.. you can change some configuration on there..
